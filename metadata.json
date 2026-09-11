@@ -1,0 +1,6 @@
+{
+  "name": "Happy Birthday Ullas 🎂🏏",
+  "description": "A special cinematic cricket birthday surprise created especially for Ullas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
